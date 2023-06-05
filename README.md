@@ -2,6 +2,8 @@
 
 This project was build using React JS library.
 
+### DEMO URL - https://netflix-clone-f7064.web.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
